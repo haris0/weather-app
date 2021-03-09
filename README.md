@@ -2,6 +2,9 @@
 
 Able Search Location and appear current location weather  information.
 
+## Preview
+![page1](./Preview.PNG)
+
 ## Build Setup
 
 ``` bash
